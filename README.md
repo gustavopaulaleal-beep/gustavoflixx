@@ -1,12 +1,26 @@
 [index.html](https://github.com/user-attachments/files/22117720/index.html)
+<head>
+   < link rel=stylesheet" heref=.css>
+  
+</head>
+
 <body> 
 
 <header>ALURAFLIX</header>
 
+<section>
 
-
-<h1>Miguel Ohara ERROU Sobre O Aranha-Verso...</h1> 
+  <div>
+ <h1>Miguel Ohara ERROU Sobre O Aranha-Verso...</h1> 
 <p>#homem-aranha</p>
+ </div>
+
+ 
+  
+</section>
+
+
+
 
 
 
